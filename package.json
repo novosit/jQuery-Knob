@@ -1,0 +1,27 @@
+{
+	"name": "jQuery-Knob",
+	"title": "jQuery-Knob",
+	"description": "",
+	"version": "0.0.1",
+	"author": "jQuery-Knob",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/novosit/jQuery-Knob.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/jquery/jquery-mobile/blob/master/MIT-LICENSE.txt"
+		}
+	],
+	"dependencies": {
+		
+	},
+	"devDependencies": {
+		
+	},
+	"scripts": {
+		
+	},
+	"keywords": []
+}

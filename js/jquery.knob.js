@@ -16,7 +16,7 @@
         define(['jquery'], factory);
     } else {
         // Browser globals
-        factory(jQuery);
+        factory(require('jquery/src/core'));
     }
 }(function ($) {
 
